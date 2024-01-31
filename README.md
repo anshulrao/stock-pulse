@@ -6,6 +6,6 @@ Working with StockTwits data downloaded using [stocktwits-crawler]([https://www.
 
 ## Projects
 
-- [x] Try to detect bots in the tweets.
-- [ ] Analyzing tweets of a particular stock.
+- [ ] Try to detect bots in the tweets -- In Progress
+- [ ] Analyzing tweets of a particular stock -- In Progress
 - [ ] ...
